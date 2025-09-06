@@ -20,7 +20,7 @@ This repository hosts a variety of machine learning projects spanning from funda
 
 ## Projects
 - **1-Linear-Regression**: A project demonstrating linear regression with data handling, model training, and result visualization.
-- *(Add more project folders here as you expand this collection.)*
+  
 
 ## Getting Started
 Follow these steps to set up the repository locally and run the projects.
